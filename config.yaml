@@ -37,3 +37,21 @@ monitors:
     url: 'https://nav.imydl.tech/'
     method: GET
     expectStatus: 200
+
+  - id: Nyjwsw # unique identifier
+    name: Nyjwsw.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.nyjwsw.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+    
+  - id: Nokinsgolfcart # unique identifier
+    name: Nokinsgolfcart.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://nokinsgolfcart.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
