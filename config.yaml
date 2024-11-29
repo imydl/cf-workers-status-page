@@ -55,3 +55,66 @@ monitors:
     expectStatus: 200 # operational status, default=200
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
+    
+  - id: love-forex # unique identifier
+    name: love-forex.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.love-forex.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: swisschooser # unique identifier
+    name: swisschooser.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://swisschooser.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: e-investingguide # unique identifier
+    name: e-investingguide.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.e-investingguide.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: 51sytx # unique identifier
+    name: 51sytx.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.51sytx.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: Gxtesjy.com # unique identifier
+    name: 寿菌园官网
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.gxtesjy.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: Kvxr # unique identifier
+    name: kvxr.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://www.kvxr.com/' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
+
+  - id: 499h # unique identifier
+    name: 499h.com
+    description: 'You write code. They handle the rest.' # default=empty
+    url: 'https://499h.com' # URL to fetch
+    method: GET # default=GET
+    expectStatus: 200 # operational status, default=200
+    followRedirect: false # should fetch follow redirects, default=false
+    linkable: false # allows the title to be a link, default=true
