@@ -83,15 +83,6 @@ monitors:
     followRedirect: false # should fetch follow redirects, default=false
     linkable: false # allows the title to be a link, default=true
 
-  - id: 51sytx # unique identifier
-    name: 51sytx.com
-    description: 'You write code. They handle the rest.' # default=empty
-    url: 'https://www.51sytx.com/' # URL to fetch
-    method: GET # default=GET
-    expectStatus: 200 # operational status, default=200
-    followRedirect: false # should fetch follow redirects, default=false
-    linkable: false # allows the title to be a link, default=true
-
   - id: Gxtesjy.com # unique identifier
     name: 寿菌园官网
     description: 'You write code. They handle the rest.' # default=empty
